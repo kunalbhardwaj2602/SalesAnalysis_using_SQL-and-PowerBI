@@ -1,6 +1,11 @@
 ## SalesAnalysis_from_scratch_using_SQL and PowerBI
 welcome!! 
 
+## Instructions to Run in Local Computer :
+   * Install a SQL Server Management Studio
+   * Microsoft Excel
+   * Microsoft PowerBI
+   
 ## Task what I  performed.
    * We need to imporve our **Internet Sales Report** and want to move form **Static Reports** to **Visual Reports**
    * Essentially we want to focus it on how much we have **Sold of What Products** to **which Clients** and how it has been over time.
@@ -35,3 +40,4 @@ welcome!!
    * Demand --A dashboard overview of internet sales	
    * User Value-- Follow sales over time against budget
    * Acceptance Criteria -- A Power Bi dashboard with graphs and KPIs comparing against budget.
+
