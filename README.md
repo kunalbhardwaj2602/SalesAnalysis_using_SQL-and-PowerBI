@@ -31,7 +31,7 @@ welcome!!
                 User Value-- Can follow up my Products that sells the most
                 Acceptance Criteria -- A Power BI dashboard which allows me to filter data for each Product
                   
- 4  4	Sales Manager
+ 4 	Sales Manager
                 Demand --A dashboard overview of internet sales	
                 User Value-- Follow sales over time against budget
                 Acceptance Criteria -- A Power Bi dashboard with graphs and KPIs comparing against budget.
