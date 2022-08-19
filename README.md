@@ -22,16 +22,16 @@ welcome!!
  * Acceptance Criteria -- A Power BI dashboard which updates data once a day.
                 
  2 Sales Representative--
-                * Demand -- A detailed overview of Internet Sales per Customers.
-                * User Value-- Can follow up my customers that buys the most and who we can sell ore to.
-                * Acceptance Criteria -- A Power BI dashboard which allows me to filter data for each customer.
+  * Demand -- A detailed overview of Internet Sales per Customers.
+  * User Value-- Can follow up my customers that buys the most and who we can sell ore to.
+  * Acceptance Criteria -- A Power BI dashboard which allows me to filter data for each customer.
                  
  3	Sales Representative--
-                * Demand -- A detailed overview of Internet Sales per Products
-                * User Value-- Can follow up my Products that sells the most
-                * Acceptance Criteria -- A Power BI dashboard which allows me to filter data for each Product
+  * Demand -- A detailed overview of Internet Sales per Products
+  * User Value-- Can follow up my Products that sells the most
+  * Acceptance Criteria -- A Power BI dashboard which allows me to filter data for each Product
                   
- 4 	Sales Manager
-                * Demand --A dashboard overview of internet sales	
-                * User Value-- Follow sales over time against budget
-                * Acceptance Criteria -- A Power Bi dashboard with graphs and KPIs comparing against budget.
+ 4 Sales Manager
+   * Demand --A dashboard overview of internet sales	
+   * User Value-- Follow sales over time against budget
+   * Acceptance Criteria -- A Power Bi dashboard with graphs and KPIs comparing against budget.
