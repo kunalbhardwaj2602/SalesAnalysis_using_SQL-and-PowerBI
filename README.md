@@ -18,8 +18,8 @@ welcome!!
 
 1	Sales Manager-- 	     
  * Demand --  To get a dashboard overview of internet sales.
-                * User Value-- Can follow better which customers and products sells the best.
-                * Acceptance Criteria -- A Power BI dashboard which updates data once a day.
+ * User Value-- Can follow better which customers and products sells the best.
+ * Acceptance Criteria -- A Power BI dashboard which updates data once a day.
                 
  2 Sales Representative--
                 * Demand -- A detailed overview of Internet Sales per Customers.
